@@ -11,6 +11,8 @@ Next, I train and evaluate multiple machine learning models including Random For
 
 Finally, I use the selected model to make predictions on new, unseen data and evaluate its performance on this data. I also visualize the results to gain additional insights into the performance of the model.
 
+In this model,I got highest accuracy in Random Forest classifier which was 84.2%
+
 This project showcases my ability to work with real-world data, perform exploratory data analysis, build and evaluate machine learning models, and make informed decisions based on the results. I believe this project will impress hiring managers and demonstrate my skills in the field of machine learning and data science.
 
 Thank you for your interest in this project. I hope you find it informative and impressive. If you have any questions or comments, please do not hesitate to reach out!
